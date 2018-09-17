@@ -1,6 +1,9 @@
 _repo: De-Roode-Pimpernel_52188
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Scarlet Pimpernel. Dutch
+covers:
+- cover_type: archival
+  image_path: 52188-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52188#De-Roode-Pimpernel
 gutenberg_issued: '2016-05-29'
 gutenberg_type: Text
 identifiers:
