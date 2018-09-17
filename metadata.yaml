@@ -1,0 +1,34 @@
+_repo: De-Roode-Pimpernel_52188
+_version: 0.0.1
+alternative_title: The Scarlet Pimpernel. Dutch
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Barstow, Montagu, Mrs.
+    - Orczy, Baroness Emmuska
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2016-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52188'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- France -- Fiction'
+- !lcsh 'Blakeney, Percy, Sir (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: De Roode Pimpernel
+url: http://www.gutenberg.org/ebooks/52188
